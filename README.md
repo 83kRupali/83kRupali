@@ -7,6 +7,7 @@
 🌱 Learning and building real-world applications
 
 About Me
+
 I am a Computer Engineering undergraduate with hands-on experience in Java and full-stack web development. I enjoy building practical applications and learning how systems work from frontend to backend.
 
 Skills & Technologies
@@ -34,9 +35,5 @@ Improving problem-solving using DSA
 📫 Connect With Me
 
 Email: rupaliramteke495@gmail.com
-
-LinkedIn: linkedin.com/in/83krupali
-
-GitHub: github.com/83kRupali
 
 ⭐ Thanks for visiting my GitHub profile!
