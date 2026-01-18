@@ -7,6 +7,7 @@
 🌱 Learning and building real-world applications
 
 About Me
+
 I enjoy building practical applications and learning how systems work from frontend to backend.
 I am a quick learner, detail-oriented, and always eager to improve my skills.
 
