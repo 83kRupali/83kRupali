@@ -1,13 +1,13 @@
 👋 Hi, I’m Rupali Ramteke
 
 🎓 Computer Engineering Student
+
 💻 Java & Full-Stack Web Developer
+
 🌱 Learning and building real-world applications
 
 About Me
-
 I am a Computer Engineering undergraduate with hands-on experience in Java and full-stack web development. I enjoy building practical applications and learning how systems work from frontend to backend.
-I have worked on projects involving REST APIs, CRUD operations, database connectivity, authentication, and external API integration. I am a quick learner, detail-oriented, and always eager to improve my skills.
 
 Skills & Technologies
 
